@@ -22,9 +22,15 @@ O objetivo é demonstrar, na prática, como funciona um processo de ETL aplicado
 
 ▶️ Como executar o projeto
 	1.	Clone o repositório:
-    git clone https://github.com/yara-castro/ETL-escola.git
-  2.	Acesse a pasta do projeto:
-    cd ETL-escola
+	
+    	git clone https://github.com/yara-castro/ETL-escola.git
+	
+  	2.	Acesse a pasta do projeto:
+     
+    	cd ETL-escola
+	
 	3.	Execute o pipeline ETL:
-    python etl_pipeline.py
-  4.	O arquivo alunos_processados.csv será gerado automaticamente.
+	
+   	 	python etl_pipeline.py
+		
+  	4.	O arquivo alunos_processados.csv será gerado automaticamente.
